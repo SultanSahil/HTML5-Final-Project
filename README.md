@@ -5,7 +5,7 @@ This is the code that I have written to pass the Final Project Exam for the Cour
 
 Attachments:
 
-coursera-final-project.htm
+coursera-final-project.htm  &  
 project-view.png
 
 
